@@ -12,3 +12,6 @@ such as e.g. `async`/`await`, `Promise`, and `ReadableStream`,
 please refer to the `es5` folder.
 
 See https://github.com/mozilla/pdf.js for learning and contributing.
+
+
+used by: https://github.com/GuillaumeIsabelleX/gix-polar-bookshelf/
